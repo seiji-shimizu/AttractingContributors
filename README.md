@@ -28,6 +28,6 @@ Send me a Pull Request!
 5. Sushi
 6. Mackerel misoni boiled (鯖の味噌煮) 
 7. Candy
-8.
+8. Curry and Rice
 9.
 10.
