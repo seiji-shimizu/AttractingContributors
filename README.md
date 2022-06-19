@@ -35,4 +35,4 @@ Translated by: deepl.com
 8. Japan - Hokkaido
 9. Australia - Melbourne
 10. Uzbekistan - Samarqand
-11.
+11. France - Paris
