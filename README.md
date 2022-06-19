@@ -29,9 +29,9 @@ Translated by: deepl.com
 2. Italy - Venice
 3. Japan - Kagoshima
 4. UK - London
-5. Bolivia - Uyuni
-6.
-7.
+5. Japan - Kyushu
+6. Bangkok - Thailand
+7. Bolivia - Uyuni
 8.
 9.
 10.
