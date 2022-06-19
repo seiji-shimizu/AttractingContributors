@@ -32,7 +32,7 @@ Translated by: deepl.com
 5. Japan - Kyushu
 6. Bangkok - Thailand
 7. Bolivia - Uyuni
-8.
+8. Japan - Hokkaido
 9.
 10.
 11.
