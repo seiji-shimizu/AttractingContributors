@@ -31,7 +31,7 @@ Translated by: deepl.com
 4. UK - London
 5. Japan - Kyushu
 6. Bangkok - Thailand
-7.
+7. Bolivia - Uyuni
 8.
 9.
 10.
