@@ -34,5 +34,5 @@ Translated by: deepl.com
 7. Bolivia - Uyuni
 8. Japan - Hokkaido
 9. Australia - Melbourne
-10.
+10. Uzbekistan - Samarqand
 11.
