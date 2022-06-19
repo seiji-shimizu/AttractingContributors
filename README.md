@@ -29,10 +29,10 @@ Translated by: deepl.com
 2. Italy - Venice
 3. Japan - Kagoshima
 4. UK - London
-5. Uzbekistan - Samarqand
-6.
-7.
-8.
-9.
-10.
+5. Japan - Kyushu
+6. Bangkok - Thailand
+7. Bolivia - Uyuni
+8. Japan - Hokkaido
+9. Australia - Melbourne
+10. Uzbekistan - Samarqand
 11.
