@@ -33,6 +33,6 @@ Translated by: deepl.com
 6. Bangkok - Thailand
 7. Bolivia - Uyuni
 8. Japan - Hokkaido
-9.
+9. Australia - Melbourne
 10.
 11.
