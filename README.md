@@ -26,6 +26,7 @@ I'm collecting your favorit places in Japan. Where is your favorit place in Japa
 4. Mt.Yatsugatake
 5. Wakayama
 6. USJ, Osaka
-7.  Kurashiki-Okayama
-8.   Osaka Namba
-9.    Home
+7. Kurashiki-Okayama
+8.  Osaka Namba
+9.  Home
+10. sky resote in Hokkaido!
